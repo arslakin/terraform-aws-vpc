@@ -3,7 +3,7 @@
 ### Usage
 ```
 module "vpc{
-    source = ""
+    source = "arslakin/vpc/aws"
 }
 
 ```
